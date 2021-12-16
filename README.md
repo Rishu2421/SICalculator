@@ -1,0 +1,2 @@
+# SICalculator
+Simple interest Calculator
